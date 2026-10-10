@@ -1,0 +1,9 @@
+# This repository contains only the standalone screensaver.
+/*
+!/.gitignore
+!/.gitattributes
+!/main.cpp
+!/CMakeLists.txt
+!/README.md
+!/PROJECT_OVERVIEW.md
+!/AGENTS.md
